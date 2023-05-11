@@ -1,7 +1,5 @@
 import React from "react"
-// import './scss/_button.scss'
-// import './scss/_reset.scss'
-// import './scss/_variable.scss'
+
 
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.scss"

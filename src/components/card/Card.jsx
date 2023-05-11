@@ -3,7 +3,7 @@ import "./Card.scss";
 
 const Card = ({ daten }) => {
 
-  console.log(daten);
+  // console.log(daten);
   return (
     <div>
       <h1>Who are you?</h1>
